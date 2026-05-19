@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>
+        <img src="https://media.tenor.com/Tsob5aHiS3UAAAAM/hello-there.gif" />
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
